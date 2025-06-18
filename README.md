@@ -1,12 +1,27 @@
-# React + Vite
+# AbhiPersonal 🎨
+Still under work, I have just made a basic tempalate 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and animated personal portfolio website built using **Vite + React + Tailwind CSS + Framer Motion**.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> Coming soon... (Deploy with GitHub Pages or Vercel)
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![screenshot](./preview.png) <!-- Add screenshot if you have one -->
+
+## 🛠️ Tech Stack
+
+- ⚡ [Vite](https://vitejs.dev/)
+- ⚛️ [React](https://reactjs.org/)
+- 💨 [Tailwind CSS](https://tailwindcss.com/)
+- 🎞️ [Framer Motion](https://www.framer.com/motion/)
+
+## ✨ Features
+
+- Smooth scroll-based animations
+- Fully responsive design
+- Clean section transitions (Hero, About, Projects, Contact)
+- Easy to customize and extend
+
